@@ -1,0 +1,33 @@
+# HW1 — SVD, HOG, SIFT
+numpy
+matplotlib
+scipy
+Pillow
+scikit-image
+imageio
+ipywidgets
+opencv-python
+scikit-learn
+
+# HW2 — Harris, Scene Recognition (BoW), Eigenface
+numpy
+matplotlib
+opencv-python
+scipy==1.10.1
+scikit-learn
+imageio
+
+# HW3 — Hough Transform, Homography + RANSAC
+numpy
+Pillow
+opencv-python
+scikit-learn
+
+# HW4 — 3D Human Pose Reconstruction
+torch
+numpy
+matplotlib
+opencv-python
+trimesh
+gdown
+viser[examples]

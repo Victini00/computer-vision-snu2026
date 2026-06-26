@@ -1,0 +1,34 @@
+source/*
+*.pdf
+
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# HW folders: only track .py and .ipynb files
+HW1/**
+!HW1/**/
+!HW1/**/*.py
+!HW1/**/*.ipynb
+
+HW2/**
+!HW2/**/
+!HW2/**/*.py
+!HW2/**/*.ipynb
+
+HW3/**
+!HW3/**/
+!HW3/**/*.py
+!HW3/**/*.ipynb
+
+HW4/**
+!HW4/**/
+!HW4/**/*.py
+!HW4/**/*.ipynb
